@@ -1,4 +1,4 @@
-# Java_ogrenirken_yaptigim_alistirmalar
+# Java ögrenirken yaptığım alıştırmalar
 Burda javada kendimi geliştirmek için yaptığım çalışmalarımı görebilirsiniz.<br><br>
 ## Kodlar
 Onluk sayı sistemindeki bir sayıyı onluk sayı sistemine çeviren koda [buradan](https://github.com/KaanKarabacak-01/Java_ogrenirken_yaptigim_alistirmalar/blob/main/intToBinary.java) ulaşabilirsiniz.<br><br>
