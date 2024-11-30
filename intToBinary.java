@@ -3,6 +3,7 @@ import java.util.Scanner;
 import java.lang.Math;
 public class intToBinary {
 	public static void main(String[] args){
+		System.out.println("Lütfen sayı giriniz: ");
 		Scanner oku = new Scanner(System.in);
 		int sayi=oku.nextInt();
 		oku.close();
